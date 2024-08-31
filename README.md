@@ -1,2 +1,2 @@
-# Pok-dex
+# Pokedex
 Self Projects
